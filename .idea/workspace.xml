@@ -4,18 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/1743_음식물피하기.py" line="33" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f57d531-f6ef-4089-b6ba-1f5e0141a76f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algo_Study/구현/21608_상어초등학교.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/구현/input_21608.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/구현/input_2615.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/백트래킹/1182_부분수열의 합.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/백트래킹/9663_N queen.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/백트래킹/input_1182.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/백트래킹/input_9663.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/백트래킹/부분집합_백트래킹예시.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bucket/prob2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2f57d531-f6ef-4089-b6ba-1f5e0141a76f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +15,7 @@
     <session id="-2125439545">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="7" />
+          <entry key="project.closed" value="8" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="3" />
           <entry key="project.open.time.5" value="3" />
@@ -403,14 +392,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="595" y="0" width="958" height="1047" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2347826" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20175439" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20175439" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
