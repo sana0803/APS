@@ -7,7 +7,7 @@
   - 앞 부분이 리스트에 추가할 각 요소
   - `[print(i,end=' ') for i in range(1,n+1) if n%i==0]` if문 섞은 활용
 - **''.join()**
-  - ![image-20210625140312703](C:\Users\new\AppData\Roaming\Typora\typora-user-images\image-20210625140312703.png)
+  - ![image-20210625140312703](README.assets/image-20210625140312703.png)
   - list, str, tuple에서 사용 가능
   - 리스트나 str 요소들을 `''`기준으로 합쳐줌. 비워두면 defalt 값은 공백. 
 

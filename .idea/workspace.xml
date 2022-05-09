@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f57d531-f6ef-4089-b6ba-1f5e0141a76f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Algo_Study/백트래킹/14889_스타트와 링크.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/백트래킹/input_14889.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/백트래킹/input_5209.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algo_Study/백트래킹/swea_5209_최소생산비용.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/14888_연산자 끼워넣기.py" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/14888_연산자 끼워넣기.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/input3.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/input3.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,23 +18,23 @@
     <session id="-2125439545">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="11" />
           <entry key="project.open.time.3" value="2" />
-          <entry key="project.open.time.4" value="3" />
+          <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.5" value="5" />
-          <entry key="project.opened" value="10" />
+          <entry key="project.opened" value="11" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="44" />
+          <entry key="py" value="47" />
           <entry key="txt" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="44" />
+          <entry key="Python" value="47" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -62,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/1182_부분수열의 합.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+            <state>
+              <caret selection-end-line="1" selection-end-column="34" />
               <folding>
                 <marker date="1650373892602" expanded="true" signature="587:598" ph="..." />
               </folding>
@@ -74,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/9663_N queen.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="990">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
               <folding>
                 <marker date="1650374707086" expanded="true" signature="158:165" ph="..." />
               </folding>
@@ -86,11 +81,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/swea_5209_최소생산비용.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <marker date="1651670356237" expanded="true" signature="304:633" ph="..." />
-              </folding>
+            <state relative-caret-position="484">
+              <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -107,12 +99,31 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/14889_스타트와 링크.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-              <folding>
-                <marker date="1651669340434" expanded="true" signature="179:442" ph="..." />
-                <marker date="1651669340434" expanded="true" signature="867:1196" ph="..." />
-              </folding>
+            <state relative-caret-position="660">
+              <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/1260_DFS와 BFS.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/BFS.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/14502_연구소.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="968">
+              <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -120,8 +131,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/14888_연산자 끼워넣기.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+            <state relative-caret-position="484">
+              <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
             </state>
           </provider>
         </entry>
@@ -131,15 +142,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="44">
               <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algo_Study/구현/21608_상어초등학교.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1148">
-              <caret line="72" column="28" selection-start-line="72" selection-start-column="28" selection-end-line="72" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -202,8 +204,8 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="823" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="433" />
     <option name="width" value="1077" />
     <option name="height" value="1047" />
   </component>
@@ -212,7 +214,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -225,32 +226,11 @@
               <item name="APS" type="462c0819:PsiDirectoryNode" />
               <item name="Algo_Study" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="APS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APS" type="462c0819:PsiDirectoryNode" />
-              <item name="Algo_Study" type="462c0819:PsiDirectoryNode" />
-              <item name="백트래킹" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APS" type="462c0819:PsiDirectoryNode" />
-              <item name="bucket" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APS" type="462c0819:PsiDirectoryNode" />
-              <item name="Programmers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="APS" type="b2602c69:ProjectViewProjectNode" />
-              <item name="APS" type="462c0819:PsiDirectoryNode" />
-              <item name="Programmers" type="462c0819:PsiDirectoryNode" />
-              <item name="LV.1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -405,7 +385,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="823" y="0" width="1077" height="1047" extended-state="0" />
+    <frame x="433" y="0" width="1077" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22714148" />
@@ -413,7 +393,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.19627193" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19627193" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -481,9 +461,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/14502_연구소.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/2667_단지번호붙이기.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
@@ -550,13 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/BFS.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" selection-start-line="9" selection-end-line="23" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/bfss.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
@@ -598,9 +568,6 @@
           <caret line="2" column="28" lean-forward="true" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/1260_DFS와 BFS.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/17086_아기상어.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -699,6 +666,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/1182_부분수열의 합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="1" selection-end-column="34" />
+          <folding>
+            <marker date="1650373892602" expanded="true" signature="587:598" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/9663_N queen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
+          <folding>
+            <marker date="1650374707086" expanded="true" signature="158:165" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/swea_5209_최소생산비용.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/input_14889.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -706,58 +700,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/input3.txt">
+    <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/14889_스타트와 링크.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="660">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/1260_DFS와 BFS.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/BFS.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="34" selection-start-line="22" selection-start-column="34" selection-end-line="22" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/14502_연구소.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="968">
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/14888_연산자 끼워넣기.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="406">
-          <caret line="22" column="45" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
+        <state relative-caret-position="484">
+          <caret line="22" column="45" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/9663_N queen.py">
+    <entry file="file://$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/input3.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="660">
-          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
-          <folding>
-            <marker date="1650374707086" expanded="true" signature="158:165" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/14889_스타트와 링크.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="426">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <marker date="1651669340434" expanded="true" signature="179:442" ph="..." />
-            <marker date="1651669340434" expanded="true" signature="867:1196" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/swea_5209_최소생산비용.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-          <folding>
-            <marker date="1651670356237" expanded="true" signature="304:633" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/1182_부분수열의 합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="19" lean-forward="true" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding>
-            <marker date="1650373892602" expanded="true" signature="587:598" ph="..." />
-          </folding>
+        <state relative-caret-position="44">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>
