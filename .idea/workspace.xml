@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f57d531-f6ef-4089-b6ba-1f5e0141a76f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Algo_Study/백트래킹/14712_넴모넴모.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_Study/백트래킹/15663_N과 M(9).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_Study/백트래킹/15664_N과 M(10).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Algo_Study/백트래킹/input_11663.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -19,46 +22,47 @@
       <usages-collector id="statistics.lifecycle.project">
         <counts>
           <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.3" value="2" />
           <entry key="project.open.time.4" value="4" />
           <entry key="project.open.time.5" value="5" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="47" />
-          <entry key="txt" value="20" />
+          <entry key="py" value="52" />
+          <entry key="txt" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="47" />
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="Python" value="52" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="17" />
-          <entry key="py" value="11364" />
+          <entry key="py" value="12946" />
           <entry key="txt" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="41" />
-          <entry key="Python" value="11364" />
+          <entry key="Python" value="12946" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/1182_부분수열의 합.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="1" selection-end-column="34" />
+            <state relative-caret-position="308">
+              <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
               <folding>
                 <marker date="1650373892602" expanded="true" signature="587:598" ph="..." />
               </folding>
@@ -67,40 +71,36 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/9663_N queen.py">
+        <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/15663_N과 M(9).py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="990">
-              <caret line="45" selection-start-line="45" selection-end-line="45" />
+            <state relative-caret-position="195">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
               <folding>
-                <marker date="1650374707086" expanded="true" signature="158:165" ph="..." />
+                <marker date="1652267195419" expanded="true" signature="925:1002" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/15664_N과 M(10).py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="242">
+              <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/14712_넴모넴모.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/swea_5209_최소생산비용.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
+            <state relative-caret-position="412">
               <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/input_14889.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/14889_스타트와 링크.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="660">
-              <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
             </state>
           </provider>
         </entry>
@@ -201,11 +201,15 @@
         <option value="$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/input3.txt" />
         <option value="$PROJECT_DIR$/Algo_Study/DFS&amp;BFS/14888_연산자 끼워넣기.py" />
         <option value="$PROJECT_DIR$/Algo_Study/백트래킹/swea_5209_최소생산비용.py" />
+        <option value="$PROJECT_DIR$/Algo_Study/백트래킹/input_11663.txt" />
+        <option value="$PROJECT_DIR$/Algo_Study/백트래킹/15663_N과 M(9).py" />
+        <option value="$PROJECT_DIR$/Algo_Study/백트래킹/15664_N과 M(10).py" />
+        <option value="$PROJECT_DIR$/Algo_Study/백트래킹/14712_넴모넴모.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="433" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="779" />
     <option name="width" value="1077" />
     <option name="height" value="1047" />
   </component>
@@ -226,6 +230,12 @@
               <item name="APS" type="462c0819:PsiDirectoryNode" />
               <item name="Algo_Study" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="APS" type="b2602c69:ProjectViewProjectNode" />
+              <item name="APS" type="462c0819:PsiDirectoryNode" />
+              <item name="Algo_Study" type="462c0819:PsiDirectoryNode" />
+              <item name="백트래킹" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -234,6 +244,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -248,28 +259,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.14888_연산자 끼워넣기">
-    <configuration name="1182_부분수열의 합" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="APS" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algo_Study/백트래킹" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algo_Study/백트래킹/1182_부분수열의 합.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.15664_N과 M(10)">
     <configuration name="14888_연산자 끼워넣기" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -312,7 +302,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="9663_N queen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="15663_N과 M(9)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="APS" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,7 +314,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algo_Study/백트래킹/9663_N queen.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algo_Study/백트래킹/15663_N과 M(9).py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15664_N과 M(10)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="APS" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Algo_Study/백트래킹" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Algo_Study/백트래킹/15664_N과 M(10).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -355,19 +366,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.1182_부분수열의 합" />
-      <item itemvalue="Python.9663_N queen" />
       <item itemvalue="Python.swea_5209_최소생산비용" />
       <item itemvalue="Python.14889_스타트와 링크" />
       <item itemvalue="Python.14888_연산자 끼워넣기" />
+      <item itemvalue="Python.15663_N과 M(9)" />
+      <item itemvalue="Python.15664_N과 M(10)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.15664_N과 M(10)" />
+        <item itemvalue="Python.15663_N과 M(9)" />
         <item itemvalue="Python.14888_연산자 끼워넣기" />
         <item itemvalue="Python.14889_스타트와 링크" />
         <item itemvalue="Python.swea_5209_최소생산비용" />
-        <item itemvalue="Python.1182_부분수열의 합" />
-        <item itemvalue="Python.9663_N queen" />
       </list>
     </recent_temporary>
   </component>
@@ -385,15 +396,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="433" y="0" width="1077" height="1047" extended-state="1" />
+    <frame x="779" y="0" width="1077" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22714148" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22714148" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19627193" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.34539473" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -666,16 +677,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/1182_부분수열의 합.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="1" selection-end-column="34" />
-          <folding>
-            <marker date="1650373892602" expanded="true" signature="587:598" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/9663_N queen.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="990">
@@ -683,13 +684,6 @@
           <folding>
             <marker date="1650374707086" expanded="true" signature="158:165" ph="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/swea_5209_최소생산비용.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
         </state>
       </provider>
     </entry>
@@ -737,6 +731,50 @@
           <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/input_11663.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/15663_N과 M(9).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <marker date="1652267195419" expanded="true" signature="925:1002" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/swea_5209_최소생산비용.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="412">
+          <caret line="22" column="37" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/1182_부분수열의 합.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+          <folding>
+            <marker date="1650373892602" expanded="true" signature="587:598" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/15664_N과 M(10).py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algo_Study/백트래킹/14712_넴모넴모.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
