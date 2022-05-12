@@ -1,9 +1,6 @@
 import sys
 sys.stdin = open("input_11663.txt")
 
-import sys
-sys.stdin = open("input_11663.txt")
-
 N, M = map(int, input().split())
 arr = sorted(list(map(int, input().split()))) # 오름차순 만들기
 # 수열 비내림차순
@@ -27,7 +24,6 @@ def make_num(idx):  # idx = 0
     if len(ans) == M:    # 수열 갯수 채웠으면
         # if ans[0] > ans[1]: # 조건에 맞지 않음(앞자리가 더 큼)
         #     return
-
         print('갯수 채움', ans)
         print('현재 res', res)
         tmp = ' '.join(map(str, ans))   # ans arr 상태로하면 중복 검사가 안됨ㅠㅠ

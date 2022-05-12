@@ -11,7 +11,7 @@ res = []
 ans = []
 
 
-def make_num(idx):  # idx = 0
+def make_num():  # idx = 0
     global ans, res
 
     # 종료조건
@@ -21,6 +21,10 @@ def make_num(idx):  # idx = 0
         tmp = ' '.join(map(str, ans))   # ans arr 상태로하면 중복 검사가 안됨ㅠㅠ
         print('tmp', tmp)
         # print(*ans)
+        # if ans not in res:
+        #     print('ans가 res에 없다')
+        #     res.append(ans)
+        #     print('res', res)
         if tmp not in res:
             res.append(tmp)
             print('res', res)
@@ -32,15 +36,15 @@ def make_num(idx):  # idx = 0
             # print('여기 시작', i)
             visited[i] = 1
             ans.append(arr[i])
-            # print('ans', ans)
+            print('ans', ans)
             # print('visited', visited)
-            make_num(idx + 1)
+            make_num()
             ans.pop()
             print('pop', ans)
             visited[i] = 0
 
 
-make_num(0)
+make_num()
 
 for j in res:
     print(j)
