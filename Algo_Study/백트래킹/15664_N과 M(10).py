@@ -28,8 +28,9 @@ def make_num(idx):  # idx = 0
         print('현재 res', res)
         tmp = ' '.join(map(str, ans))   # ans arr 상태로하면 중복 검사가 안됨ㅠㅠ
         print('tmp', tmp)
-        # print(*ans)
-        if tmp not in res:
+        # 딕셔너리 key로 튜블을 넣을수 있음 list는 X 
+        # 딕셔너리 KEY로 접근해서 체크하는게 시간 복잡도가 더 낮다
+        if tmp not in res:  # 딕셔너리 이용해서 방문체크?
             res.append(tmp)
             print('res', res)
         return res
@@ -40,7 +41,7 @@ def make_num(idx):  # idx = 0
             # print('여기 시작', i)
             visited[i] = 1
             ans.append(arr[i])
-            # print('ans', ans)
+            print('ans', ans)
             # print('visited', visited)
             make_num(idx + 1)
             ans.pop()
@@ -52,9 +53,5 @@ make_num(0)
 
 for j in res:
     print(j)
-
-
-
-
 
 

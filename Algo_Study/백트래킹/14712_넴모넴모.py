@@ -21,20 +21,24 @@ def nemo(i, j): # (행, 열)
 
     # 종료조건 : 행이 N보다 커지면
     if i > N:
-        print(ans)
-        return
+        ans += 1
+        print('2. 종료상태' + '\n', DataFrame(box))
+        print('25번 줄 ans', ans)
+        return ans
 
     # 반복
     # 주변에 놓을수 있는지 확인 (왼, 위, 좌상)
+    # box[i][j]가 0일때 / 1일때 둘다 재귀 들어가야해서 2번 nemo 호출해야함
+    nemo(i, j+1)    # box[i][j] = 0 인 상태 재귀
     if box[i-1][j] == 0 or box[i][j-1] == 0 or box[i-1][j-1] == 0:
         box[i][j] = 1
-        ans += 1   # ???
-        print('box 현재상태' + '\n', DataFrame(box))
-        nemo(i, j+1)
+        # ans += 1   # ???
+        # print('1. 현재상태' + '\n', DataFrame(box))
+        # print('ans 값:', ans)
+        nemo(i, j+1)    # box[i][j] = 1 인 상태 재귀
         box[i][j] = 0   # 리셋해주기
-    ans += 1
-    return ans
+    # print('ans 값2:', ans)
 
 
 nemo(1, 1)
-print('ans :', ans)
+print('최종 ans :', ans)

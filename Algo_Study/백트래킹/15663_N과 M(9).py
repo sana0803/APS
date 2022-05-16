@@ -23,7 +23,7 @@ def make_num():  # idx = 0
         # print(*ans)
         # if ans not in res:
         #     print('ans가 res에 없다')
-        #     res.append(ans)
+        #     res.append(ans[:])
         #     print('res', res)
         if tmp not in res:
             res.append(tmp)
