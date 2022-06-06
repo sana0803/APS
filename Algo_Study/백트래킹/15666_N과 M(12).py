@@ -5,7 +5,6 @@ N, M = map(int, input().split())
 arr = sorted(list(map(int, input().split()))) # 오름차순 만들기
 
 # print(arr)
-visited = [0] * N
 res = []
 ans = []
 
@@ -19,7 +18,7 @@ def make_num(idx):  # idx = 0
 
     # 종료조건
     if len(ans) == M:    # 수열 갯수 채웠으면
-        # print('갯수 채움', ans)
+        print('갯수 채움', ans)
         tmp = ' '.join(map(str, ans))
         res.append(tmp)
         # print('res', res)
